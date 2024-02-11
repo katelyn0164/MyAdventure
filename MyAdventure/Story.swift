@@ -10,7 +10,7 @@ struct StoryLogic {
     
     let stories = [
         Story(
-            title: "You are trying to figure out what video game to play. You have 2 options. Doom or Fortnite?!",
+            title: "You are trying to figure out what video game to play. You have 2 options. Doom or Fortnite?",
             choice1: "Doom", choice1Destination: 2,
             choice2: "Fortnite", choice2Destination: 1
         ),
@@ -30,7 +30,7 @@ struct StoryLogic {
             choice2: "Agreed", choice2Destination: 0
         ),
         Story(
-            title: "You forgot that your PC sucks and it chatches on fire.",
+            title: "You forgot that your PC sucks and it catches on fire.",
             choice1: "The", choice1Destination: 0,
             choice2: "End", choice2Destination: 0
             
